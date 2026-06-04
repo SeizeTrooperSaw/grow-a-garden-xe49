@@ -1,4 +1,4 @@
-#  
+#  stealth Script for grow a garden offers the most advanced grow a garden Script, with no clip and auto-heal. Perfect for dominating any match.
 
 
 
